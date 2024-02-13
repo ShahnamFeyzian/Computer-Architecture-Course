@@ -1,5 +1,5 @@
 # Computer Architecture
-This repository contains `Computer Architecture` university course.
+This repository contains `Computer Architecture` course projects.
 
  ### [CA1](https://github.com/ShahnamFeyzian/Computer-Architecture/tree/main/CA1) 
  Intelligent mouse, in this project we described a hardware system that can solve the old problem of maze and mouse.
